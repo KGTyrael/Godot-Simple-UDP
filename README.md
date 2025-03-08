@@ -3,6 +3,12 @@
 这是一个简单的Godot UDP网络通信插件，提供基本的UDP通信功能。
 This is a simple Godot UDP networking plugin that provides basic UDP communication functionality.
 
+## 界面预览 | Interface Preview
+![Example Screenshot](https://raw.githubusercontent.com/KGTyrael/Godot-Simple-UDP/main/screenshots/example.png)
+
+## 图标 | Icon
+![Plugin Icon](https://raw.githubusercontent.com/KGTyrael/Godot-Simple-UDP/main/screenshots/icon.png)
+
 ## 作者信息 | Author Information
 - 作者 | Author: EBGame Studio - 摸摸鱼玩游戏
 - 主页 | Homepage: https://space.bilibili.com/13651987
