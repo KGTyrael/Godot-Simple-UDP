@@ -1,0 +1,11 @@
+# Godot-specific ignores
+.import/
+*.import
+*.translation
+*.uid
+export.cfg
+export_presets.cfg
+
+# System/tool-specific ignores
+.DS_Store
+*~ 
